@@ -22,3 +22,4 @@ collections:
               - { label: 'Name', name: 'name', widget: 'string' }
               - { label: 'Description', name: 'description', widget: 'text' }
               - { label: 'Character', name: 'character', widget: 'text' }
+# comment
