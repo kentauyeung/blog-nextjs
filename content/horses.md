@@ -1,6 +1,6 @@
 ---
 title: Great Horses
-date: 2021-03-23T18:26:51.289Z
+date: 2021-04-01T02:17:00.513Z
 horses:
   - name: Excepzional
     description: Excepzional a grey Polish-Crabbet Arabian stallion and an
