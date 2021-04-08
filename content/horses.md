@@ -13,9 +13,9 @@ horses:
   - name: Aris
     description: Aris is a grey Arabian and half brother to Chanz.
     character: Earnest, cautious. Hell of a bucking horse (unfortunately!).
-  - name: Charlie
-    description: He's brown
-    character: intel
+  - name: Billy
+    description: Black Arabian and half brother to Aris.
+    character: Earnest, cautious.
 ---
 
 This is the profile page for some of my horses.
